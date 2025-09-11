@@ -6,7 +6,7 @@ SwampCoin is a Greenman initiative designed to regenerate wetlands, transform ne
 ---
 
 ## 📄 Whitepaper Access
-- **PDF (Latest Release):** [Download Here](./SWAMPCOIN_ECOGENESIS_WHITEPAPERV1.pdf)  
+- **PDF (Latest Release):** [Download Here](./SWAMPCOIN_ECOGENESIS_WHITEPAPER_V1.pdf)  
 - **Decentralized Copy (IPFS):** [Coming Soon]  
 
 ---
