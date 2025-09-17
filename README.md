@@ -42,7 +42,7 @@ This synergy builds **an unstoppable regenerative economy** that uplifts both **
 
 ## 🔗 Official Links  
 
-- 🌐 Website: [swampcoin.org](https://swampcoin.org) *(pending DNS propagation)*  
+- 🌐 Website: [swampcoin.org](https://swampcoin.org)  
 - 📂 GitHub Repository: [SwampCoin Whitepaper](https://github.com/swampcoin-protocol/swampcoin-whitepaper)  
 - 🪙 Greenman Ecosystem: *More initiatives coming soon*  
 
